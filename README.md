@@ -89,7 +89,7 @@ I'm a passionate developer specializing in building modern web and mobile applic
 <div align="center">
 
 <a href="https://bluegrid.co.tz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bluegrid&repo=bluegrid-solutions&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="BlueGrid"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Big-pappi&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="BlueGrid"/>
 </a>
 
 </div>
