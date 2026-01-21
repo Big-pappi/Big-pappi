@@ -268,21 +268,11 @@ Comprehensive project collection for students
 
 <div align="center">
 
-<a href="https://github.com/Big-Pappi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
+<a href="https://github.com/Big-pappi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Big-pappi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
 </a>
-<a href="https://github.com/Big-Pappi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Big-Pappi">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
+<a href="https://github.com/Big-pappi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Big-pappi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
@@ -292,7 +282,17 @@ Comprehensive project collection for students
 <div align="center">
 
 <a href="https://github.com/Big-Pappi">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Big-pappi&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Big-pappi">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Big-pappi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 </a>
 
 </div>
@@ -322,7 +322,7 @@ Comprehensive project collection for students
 <br><br>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Big-Pappi&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Big-Ppappi&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -331,7 +331,7 @@ Comprehensive project collection for students
 <!-- Quote Section -->
 <div align="center">
 
-> "First, solve the problem. Then, write the code." - John Johnson
+> "Whenever I create, I create With My Heart." - Chedy
 
 </div>
 
