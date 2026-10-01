@@ -28,7 +28,7 @@ I'm a passionate developer specializing in building modern web and mobile applic
 
 - Building scalable **React** and **Next.js** applications
 - Creating cross-platform mobile apps with **React Native**
-- Developing robust backend systems with **Node.js** and **PHP**
+- Developing robust backend systems with **Node.js** and **Django**
 - Delivering end-to-end solutions from concept to deployment
 
 **Current Focus:**
